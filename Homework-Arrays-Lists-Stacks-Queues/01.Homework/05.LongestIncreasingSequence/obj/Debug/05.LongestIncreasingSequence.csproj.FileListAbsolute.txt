@@ -1,0 +1,6 @@
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe.config
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.pdb
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb

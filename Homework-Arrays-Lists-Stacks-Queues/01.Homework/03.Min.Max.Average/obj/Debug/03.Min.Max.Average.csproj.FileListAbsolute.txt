@@ -1,0 +1,6 @@
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\03.Min.Max.Average\bin\Debug\03.Min.Max.Average.exe.config
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\03.Min.Max.Average\bin\Debug\03.Min.Max.Average.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\03.Min.Max.Average\bin\Debug\03.Min.Max.Average.pdb
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\03.Min.Max.Average\obj\Debug\03.Min.Max.Average.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\03.Min.Max.Average\obj\Debug\03.Min.Max.Average.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\03.Min.Max.Average\obj\Debug\03.Min.Max.Average.pdb

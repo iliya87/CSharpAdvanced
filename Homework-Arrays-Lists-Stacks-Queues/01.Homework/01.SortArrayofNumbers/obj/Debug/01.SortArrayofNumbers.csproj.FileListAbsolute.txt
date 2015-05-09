@@ -1,0 +1,6 @@
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\01.SortArrayofNumbers\bin\Debug\01.SortArrayofNumbers.exe.config
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\01.SortArrayofNumbers\obj\Debug\01.SortArrayofNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\01.SortArrayofNumbers\bin\Debug\01.SortArrayofNumbers.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\01.SortArrayofNumbers\bin\Debug\01.SortArrayofNumbers.pdb
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\01.SortArrayofNumbers\obj\Debug\01.SortArrayofNumbers.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\01.SortArrayofNumbers\obj\Debug\01.SortArrayofNumbers.pdb

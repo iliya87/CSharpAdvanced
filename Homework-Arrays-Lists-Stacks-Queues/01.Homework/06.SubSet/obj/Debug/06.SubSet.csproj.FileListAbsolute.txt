@@ -1,0 +1,6 @@
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\06.SubSet\bin\Debug\06.SubSet.exe.config
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\06.SubSet\bin\Debug\06.SubSet.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\06.SubSet\bin\Debug\06.SubSet.pdb
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\06.SubSet\obj\Debug\06.SubSet.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\06.SubSet\obj\Debug\06.SubSet.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\01.Homework\06.SubSet\obj\Debug\06.SubSet.pdb

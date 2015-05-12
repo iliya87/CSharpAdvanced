@@ -1,0 +1,5 @@
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe.config
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.pdb
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.pdb

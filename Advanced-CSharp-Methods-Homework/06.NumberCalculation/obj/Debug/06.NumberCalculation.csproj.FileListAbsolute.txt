@@ -1,0 +1,5 @@
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\06.NumberCalculation\bin\Debug\06.NumberCalculation.exe.config
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\06.NumberCalculation\bin\Debug\06.NumberCalculation.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\06.NumberCalculation\bin\Debug\06.NumberCalculation.pdb
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\06.NumberCalculation\obj\Debug\06.NumberCalculation.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\06.NumberCalculation\obj\Debug\06.NumberCalculation.pdb

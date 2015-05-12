@@ -1,0 +1,11 @@
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\07.Generic Array Sort\bin\Debug\07.Generic Array Sort.exe.config
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\07.Generic Array Sort\bin\Debug\07.Generic Array Sort.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\07.Generic Array Sort\bin\Debug\07.Generic Array Sort.pdb
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\07.Generic Array Sort\obj\Debug\07.Generic Array Sort.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\07.Generic Array Sort\obj\Debug\07.Generic Array Sort.pdb
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\02.Advanced-CSharp-Methods-Homework\07.Generic Array Sort\bin\Debug\07.Generic Array Sort.exe.config
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\02.Advanced-CSharp-Methods-Homework\07.Generic Array Sort\obj\Debug\07.Generic Array Sort.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\02.Advanced-CSharp-Methods-Homework\07.Generic Array Sort\obj\Debug\07.Generic Array Sort.pdb
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\02.Advanced-CSharp-Methods-Homework\07.Generic Array Sort\bin\Debug\07.Generic Array Sort.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\02.Advanced-CSharp-Methods-Homework\07.Generic Array Sort\bin\Debug\07.Generic Array Sort.pdb
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\02.Advanced-CSharp-Methods-Homework\07.Generic Array Sort\obj\Debug\07.Generic Array Sort.csprojResolveAssemblyReference.cache

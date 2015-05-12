@@ -1,0 +1,8 @@
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe.config
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\05.ReverseNumber\bin\Debug\05.ReverseNumber.pdb
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\05.ReverseNumber\obj\Debug\05.ReverseNumber.exe
+C:\Users\Iliya\Desktop\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework-Arrays-Lists-Stacks-Queues\Methods\05.ReverseNumber\obj\Debug\05.ReverseNumber.pdb

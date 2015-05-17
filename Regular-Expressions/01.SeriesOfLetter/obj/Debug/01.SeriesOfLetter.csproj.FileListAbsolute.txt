@@ -1,0 +1,6 @@
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\01.SeriesOfLetter\bin\Debug\01.SeriesOfLetter.exe.config
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\01.SeriesOfLetter\bin\Debug\01.SeriesOfLetter.exe
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\01.SeriesOfLetter\bin\Debug\01.SeriesOfLetter.pdb
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\01.SeriesOfLetter\obj\Debug\01.SeriesOfLetter.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\01.SeriesOfLetter\obj\Debug\01.SeriesOfLetter.exe
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\01.SeriesOfLetter\obj\Debug\01.SeriesOfLetter.pdb

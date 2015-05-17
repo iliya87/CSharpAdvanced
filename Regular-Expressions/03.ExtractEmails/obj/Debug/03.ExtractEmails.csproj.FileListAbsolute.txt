@@ -1,0 +1,6 @@
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe.config
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.pdb
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.exe
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.pdb

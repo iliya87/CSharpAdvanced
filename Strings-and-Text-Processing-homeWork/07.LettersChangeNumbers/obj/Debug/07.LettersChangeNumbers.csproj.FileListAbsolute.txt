@@ -1,0 +1,6 @@
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.exe.config
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.exe
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.pdb
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.exe
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.pdb

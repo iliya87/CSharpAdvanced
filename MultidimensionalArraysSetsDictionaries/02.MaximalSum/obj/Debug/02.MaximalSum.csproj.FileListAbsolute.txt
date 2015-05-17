@@ -1,0 +1,5 @@
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\MultidimensionalArraysSetsDictionaries\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\MultidimensionalArraysSetsDictionaries\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\MultidimensionalArraysSetsDictionaries\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\MultidimensionalArraysSetsDictionaries\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\MultidimensionalArraysSetsDictionaries\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

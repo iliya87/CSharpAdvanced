@@ -1,0 +1,5 @@
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe.config
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\02.ReplaceTag\bin\Debug\02.ReplaceTag.pdb
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\02.ReplaceTag\obj\Debug\02.ReplaceTag.exe
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\02.ReplaceTag\obj\Debug\02.ReplaceTag.pdb

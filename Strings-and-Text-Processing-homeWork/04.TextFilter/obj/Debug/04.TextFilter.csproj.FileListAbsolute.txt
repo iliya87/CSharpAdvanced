@@ -1,0 +1,6 @@
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\04.TextFilter\bin\Debug\04.TextFilter.exe.config
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\04.TextFilter\bin\Debug\04.TextFilter.exe
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\04.TextFilter\bin\Debug\04.TextFilter.pdb
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\04.TextFilter\obj\Debug\04.TextFilter.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\04.TextFilter\obj\Debug\04.TextFilter.exe
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\04.TextFilter\obj\Debug\04.TextFilter.pdb

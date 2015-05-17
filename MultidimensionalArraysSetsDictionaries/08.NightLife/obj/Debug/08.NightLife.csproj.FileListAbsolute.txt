@@ -1,0 +1,5 @@
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\MultidimensionalArraysSetsDictionaries\08.NightLife\bin\Debug\08.NightLife.exe.config
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\MultidimensionalArraysSetsDictionaries\08.NightLife\bin\Debug\08.NightLife.exe
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\MultidimensionalArraysSetsDictionaries\08.NightLife\bin\Debug\08.NightLife.pdb
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\MultidimensionalArraysSetsDictionaries\08.NightLife\obj\Debug\08.NightLife.exe
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\MultidimensionalArraysSetsDictionaries\08.NightLife\obj\Debug\08.NightLife.pdb

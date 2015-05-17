@@ -1,0 +1,5 @@
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\03.CountSubstringOccurrences\bin\Debug\03.CountSubstringOccurrences.exe.config
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\03.CountSubstringOccurrences\bin\Debug\03.CountSubstringOccurrences.exe
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\03.CountSubstringOccurrences\bin\Debug\03.CountSubstringOccurrences.pdb
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\03.CountSubstringOccurrences\obj\Debug\03.CountSubstringOccurrences.exe
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\03.CountSubstringOccurrences\obj\Debug\03.CountSubstringOccurrences.pdb

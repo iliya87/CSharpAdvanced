@@ -1,0 +1,6 @@
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\01.ReverseString\bin\Debug\01.ReverseString.exe.config
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\01.ReverseString\bin\Debug\01.ReverseString.exe
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\01.ReverseString\bin\Debug\01.ReverseString.pdb
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\01.ReverseString\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\01.ReverseString\obj\Debug\01.ReverseString.exe
+C:\Users\Iliya\Desktop\02.HomeworkMultidimensionalArraysSetsDictionaries\Strings-and-Text-Processing\01.ReverseString\obj\Debug\01.ReverseString.pdb

@@ -1,0 +1,5 @@
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\04SentenceExtractor\bin\Debug\04SentenceExtractor.exe.config
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\04SentenceExtractor\bin\Debug\04SentenceExtractor.exe
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\04SentenceExtractor\bin\Debug\04SentenceExtractor.pdb
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\04SentenceExtractor\obj\Debug\04SentenceExtractor.exe
+C:\Users\Iliya\Desktop\Regular-Expressions\Regular-Expressions\04SentenceExtractor\obj\Debug\04SentenceExtractor.pdb

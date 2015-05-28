@@ -1,0 +1,6 @@
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.exe
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.exe
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.pdb
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.csprojResolveAssemblyReference.cache

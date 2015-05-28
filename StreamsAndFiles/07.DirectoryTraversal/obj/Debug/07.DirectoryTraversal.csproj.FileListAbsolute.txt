@@ -1,0 +1,5 @@
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe.config
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.pdb
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.exe
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.pdb

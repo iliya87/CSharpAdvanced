@@ -1,0 +1,30 @@
+   1. using System;
+   2. using System.Collections.Generic;
+   3. using System.IO;
+   4. using System.Linq;
+   5. using System.Text;
+   6. using System.Threading.Tasks;
+   7. 
+   8. namespace _02.LineNumbers
+   9. {
+  10.     class LineNumbers
+  11.     {
+  12.         static void Main(string[] args)
+  13.         {
+  14.             using (var reader = new StreamReader("../../LineNumbers.cs"))
+  15.             {
+  16.                 using (var writer = new StreamWriter("../../MyCode.txt"))
+  17.                 {
+  18.                     int counter = 1;
+  19.                     var line = reader.ReadLine();
+  20.                     while (line != null)
+  21.                     {
+  22.                         writer.WriteLine("{0,4}. {1}",counter,line);
+  23.                         counter++;
+  24.                         line = reader.ReadLine();
+  25.                     }
+  26.                 }
+  27.             }
+  28.         }
+  29.     }
+  30. }

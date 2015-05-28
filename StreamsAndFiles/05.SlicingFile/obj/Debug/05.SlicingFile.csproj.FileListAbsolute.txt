@@ -1,0 +1,6 @@
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\05.SlicingFile\bin\Debug\05.SlicingFile.exe.config
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\05.SlicingFile\obj\Debug\05.SlicingFile.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\05.SlicingFile\bin\Debug\05.SlicingFile.exe
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\05.SlicingFile\bin\Debug\05.SlicingFile.pdb
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\05.SlicingFile\obj\Debug\05.SlicingFile.exe
+C:\Users\Iliya\Desktop\6. Advanced-CSharp-Streams-And-Files-Homework\6. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\05.SlicingFile\obj\Debug\05.SlicingFile.pdb

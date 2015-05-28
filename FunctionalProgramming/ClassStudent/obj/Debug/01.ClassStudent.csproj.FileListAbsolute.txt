@@ -1,0 +1,6 @@
+C:\Users\Iliya\Desktop\7. Advanced-CSharp-Functional-Programming-Homework.zip\FunctionalProgramming\ClassStudent\bin\Debug\ClassStudent.exe.config
+C:\Users\Iliya\Desktop\7. Advanced-CSharp-Functional-Programming-Homework.zip\FunctionalProgramming\ClassStudent\bin\Debug\ClassStudent.exe
+C:\Users\Iliya\Desktop\7. Advanced-CSharp-Functional-Programming-Homework.zip\FunctionalProgramming\ClassStudent\bin\Debug\ClassStudent.pdb
+C:\Users\Iliya\Desktop\7. Advanced-CSharp-Functional-Programming-Homework.zip\FunctionalProgramming\ClassStudent\obj\Debug\01.ClassStudent.csprojResolveAssemblyReference.cache
+C:\Users\Iliya\Desktop\7. Advanced-CSharp-Functional-Programming-Homework.zip\FunctionalProgramming\ClassStudent\obj\Debug\ClassStudent.exe
+C:\Users\Iliya\Desktop\7. Advanced-CSharp-Functional-Programming-Homework.zip\FunctionalProgramming\ClassStudent\obj\Debug\ClassStudent.pdb
